@@ -33,13 +33,13 @@ After 5 years working in recruitment, I decided it was time to do something comp
 After deciding to career change and moving back to the UK, I went back to Oasis HR on a part time contract. I helped build out their employer brand and hired for their own team of recruitment consultants, hiring 2 great people and saving around £9,000 on agency fees. I spent about 1-2 days a week learning programming - I wanted to make sure I enjoyed the realities of software development as a career!  
 
 **Bloomberg LP (New York, US based)** (Aug '16 to Sept '17)   
-**Experienced Hire Technical Recruiter**  
+**Experienced Hire Technical Recruiter**\
 For most of my time in New York I solely focused on hiring our site reliability engineers. I was the first dedicated in-house recruiter for SRE's and despite many teams hiring for them, there was little cohesion across the groups. A big part of my role was sourcing and attracting SRE's, and another big part was working with the individual groups hiring them to build out a Bloomberg SRE profile by identifying the skills, experience and personal qualities needed to be successful. 
 
 I got the chance to work with some great leaders across multiple product groups and delve a lot deeper into DevOps, Production, Systems, Reliability and Programming in order to understand the relationship between each and the very ambigious world of site reliability engineering. I think it was here that I realised how much I enjoyed learning about production software! 
 
 **Bloomberg LP (New York, US based)** (Jan '15 Aug '16)   
-**EMEA Campus Technical Recruiter**. 
+**EMEA Campus Technical Recruiter**\
 Before relocating to New York, I worked in our London office recruiting for our C++ software development programme, aimed mainly at CS students.
 
 I ran our hackathon sponsorship for events across Europe and attended about 10 that year myself. It was at one in Glasgow that I first tried coding (Python through team treehouse!).
@@ -47,7 +47,7 @@ I ran our hackathon sponsorship for events across Europe and attended about 10 t
 I love data and I looked after our teams data reporting. I automated our monthly data report and used .csv exports from our applicant tracking system to draw insights and build predictive funnels. When I first decided to learn programming seriously, I thought it would be to do data analysis (I did an amazing Python course through Coursera with University of Toronto). It wasn't until I got deeper into programming that I realised I found full stack engineering more interesting. 
 
 **Oasis HR** (May '13 to Jan '15)   
-**Recruitment Consultant**. 
+**Recruitment Consultant**\
 Agency recruiter in a specialist HR recruitment consultancy, recruiting
 mid to senior level roles in a variety of industries for SME and blue-chip organisations. I made placements at Bloomberg, AOL, CGI Group, Blinkbox, Harrods, BBC and more! 
 
