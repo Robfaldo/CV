@@ -2,14 +2,12 @@
 
 After 5 years working in recruitment, I decided it was time to do something completely different with my life. After a lot of soul-searching, conversations and research I decided to become a full stack engineer. I'm so glad I made that decision and now after a few months of self study before joining a 3 month intensive coding course with Makers Academy, I'm looking for my first role as a software developer. 
 
-## Skills
+## Projects
 
-#### Projects
-
-| First header     | Second header   |
-| ---------------- | --------------- |
-| Content          | Content         |
-| Content          | Content         |
+| Project name         | Project description   | Technologies used |
+| ----------------     | ---------------       | --------------    |
+| Example1             | Content               |                   |
+| Example2             | Content               |                   |
 
 ## Education
 
