@@ -1,29 +1,15 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-After 5 years working in recruitment, I made the decision to do something completely different and become a full stack engineer. 
-
-I
+After 5 years working in recruitment, I decided it was time to do something completely different with my life. After a lot of soul-searching, conversations and research I decided to become a full stack engineer. I'm so glad I made that decision and now after a few months of self study before joining a 3 month intensive coding course with Makers Academy, I'm looking for my first role as a software developer. 
 
 ## Skills
 
-#### This Skill
+#### Projects
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| First header     | Second header   |
+| ---------------- | --------------- |
+| Content          | Content         |
+| Content          | Content         |
 
 ## Education
 
@@ -42,8 +28,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Law (LLB)
 - 2.1 
-
-#### Any other qualifications
 
 ## Experience
 
@@ -69,3 +53,12 @@ I love data and I looked after our teams data reporting. I automated our monthly
 **Recruitment Consultant**  
 Agency recruiter in a specialist HR recruitment consultancy, recruiting
 mid to senior level roles in a variety of industries for SME and blue-chip organisations. I made placements at Bloomberg, AOL, CGI Group, Blinkbox, Harrods, BBC and more! 
+
+## Interests 
+
+I love to be outside and enjoy everything from hiking trails, camping trips, skiing &amp; snowboarding to skydiving and hang gliding. I've been running the last couple of years and completed the 2018 Spartan Race. 
+
+I'm fascinated by psychology and the unconscious mind. Whilst in New York I decided to pursue a life-long curiousity by enrolling in an Eriksonian Hypnotherapy course. I completed the 6 day training and the following test and coursework to become certified. 
+
+After a long hiatus, I've got back into reading. I've been tackling some of the classics recently.  
+
