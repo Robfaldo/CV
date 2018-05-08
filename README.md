@@ -2,6 +2,10 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+After 5 years working in recruitment, I made the decision to do something completely different and become a full stack engineer. 
+
+I
+
 ## Skills
 
 #### This Skill
@@ -23,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May '18 to August '18)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +38,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Nottingham Trent University (2009 to 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Law (LLB)
+- 2.1 
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
+**Oasis HR** (Nov '17 to May '18)    
+*Internal Recruiter (part-time contract)*  
+**Bloomberg LP (New York, US based)** (Aug '16 to Sept '17)   
+*Experienced Hire Technical Recruiter*
+*EMEA Campus Technical Recruiter*    
+**Oasis HR** (May '13 to Jan '15)    
 *Your job title*  
