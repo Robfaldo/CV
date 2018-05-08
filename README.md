@@ -29,7 +29,7 @@ After 5 years working in recruitment, I decided it was time to do something comp
 ## Experience
 
 **Oasis HR** (Nov '17 to May '18)    
-**Internal Recruiter (part-time contract)**  
+**Internal Recruiter (part-time contract)**\
 After deciding to career change and moving back to the UK, I went back to Oasis HR on a part time contract. I helped build out their employer brand and hired for their own team of recruitment consultants, hiring 2 great people and saving around £9,000 on agency fees. I spent about 1-2 days a week learning programming - I wanted to make sure I enjoyed the realities of software development as a career!  
 
 **Bloomberg LP (New York, US based)** (Aug '16 to Sept '17)   
