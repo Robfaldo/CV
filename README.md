@@ -1,68 +1,82 @@
-## Robert Faldo
+# Robert Faldo (robertfaldo@gmail.com)<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/robertfaldo/">
+  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  <a href="https://medium.com/@robertfaldo">
+  <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+  <a href="https://github.com/Robfaldo">
+  <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="medium" hspace="50" height="42" width="42"></a><br></p><br>
 
-After 5 years working in recruitment, I decided it was time to do something completely different with my life. After a lot of soul-searching, conversations and research I decided to become a full stack engineer. I'm so glad I made that decision and now the 3 month intensive coding course with Makers Academy, I'm looking for my first role as a software developer. 
+I'm an ex-technology recruiter who got tired of wishing I was doing the roles that I was recruiting for. I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior full stack or backend web developer role.
 
-## Projects
+## Technical experience
 
-| Project name         | Project description   | Technologies used |
-| ----------------     | ---------------       | --------------    |
-| Example1             | Content               |                   |
-| Example2             | Content               |                   |
+| Title | Team info | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed|
+|--|--|--|--|--|--|
+| [instagram](https://github.com/Robfaldo/instagram-challenge). Started as the weekend challenge at the end of the 8th week of Makers | Completed solo | This is the info about the project | 2 days (have added some code since -- see commit history) | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
+| [facebook](https://github.com/chrisrusselldigital/acebook-petbook). Started in the 8th week of Makers | Completed in a team of 5 | This is the info about the project | 2 weeks | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
+| [AirBnB](https://github.com/chrisrusselldigital/acebook-petbook). Started in the 6th week of Makers. My blog post on what I learnt form it [here](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) | Completed in a team of 5 | This is the info about the project | 1 week | Javascript, NodeJs/Express, MongoDB | Cypress, Jasmine |
+
+I really enjoy TDD/BDD. Here's a blog post on why. WRITE THIS BLOG
+SOLID design principles.
+DRY.
+XP values.
+Agile development (Kanban, sprint).  
 
 ## Education
 
 #### Makers Academy (May '18 to August '18)
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+
+I studied in person at Makers Academy London office. Who are makers? They're a full time, web development bootcamp based in London. MORE INFO HERE
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Online courses
+
+* CS50 (partial complete)
+* University of Toronto - Introduction to computer programming (in Python)
+* Coursera - HTML, CSS and Javascript for front end development
+* Codecademy - Ruby and Python tracks
+* Udacity -
+COMPLETE THIS
+
 #### Nottingham Trent University (2009 to 2012)
 
 - Law (LLB)
-- 2.1 
+- 2.1
 
-## Experience
+## Non-technical experience
 
 **Oasis HR** (Nov '17 to May '18)    
 *Internal Recruiter (part-time contract)*\
-After deciding to career change and moving back to the UK, I was rehired by Oasis HR on a part-time contract. I hired 2 people to join their team, saving over £18k in agency fees. During this time I spent about 1-2 days a week learning to code.
+After deciding to career change and moving back to the UK, I was rehired by Oasis HR on a part-time contract. During this time I spent about 1-2 days a week learning to code.<br>
+Highlights:
+* I hired 2 people to join their team, saving over £18k in agency fees.
 
 **Bloomberg LP (New York, US based)** (Aug '16 to Sept '17)   
 *Experienced Hire Technical Recruiter*\
-I was focused on hiring site reliability engineers for Bloombergs' 5,000 strong developer team. I was the first dedicated in-house recruiter for SRE's and despite many teams hiring for them, there was little cohesion across the groups.
+After relocating to our New York HQ, I was the first recruiter dedicated to hiring Site Reliability Engineers for Bloombergs' 5,000 strong developer team.<br>
+Highlights:
+* Worked with heads of groups (application and infrastructure teams) on identifying a matrix of core technical and non-technical requirements for SRE's across different teams (different teams had very different opinions!).
+* I got the chance to work with some great leaders across multiple engineering groups and delved a lot deeper into DevOps, Production, Systems, Reliability and Development in order to understand the relationship between each and the very ambiguous world of site reliability engineering.
 
-At first we had 11 teams hiring 25 SRE's, with candidates only interviewing with 1 team before being rejected for technical reasons (e.g. lack of particular technologies). After working with senior stakeholders across our systems, infrastructure and application groups to identify the core requirements for any SRE at Bloomberg (e.g. strong understanding of both systems and application development) we uncovered the differences in requirements between teams and created a joint interview process which involved interviewers from different teams. This resulted in:
-* Candidates having full awareness of all groups hiring SRE's, which improved the chances of attracting them to a group they found interesting. 
-* Teams having full awareness of candidates, which improved the chances that we found a group that was attracted to that persons technical experience. 
-* An improvement in the overall quality of SRE's at Bloomberg, achieved by above two points and by creating a platform for all groups hiring SREs to discuss and challenge the role and requirements of an SRE at Bloomberg. 
-
-I got the chance to work with some great leaders across multiple engineering groups and delved a lot deeper into DevOps, Production, Systems, Reliability and Programming in order to understand the relationship between each and the very ambigious world of site reliability engineering. I think it was here that I realised how much I enjoyed learning about production software! 
-
-**Bloomberg LP (New York, US based)** (Jan '15 Aug '16)   
+**Bloomberg LP (London, UK based)** (Jan '15 Aug '16)   
 *EMEA Campus Technical Recruiter*\
-Before relocating to New York, I worked in our London office recruiting for our C++ software development programme, aimed mainly at CS students.
-
-I ran our hackathon sponsorship for events across Europe and attended about 10 that year myself. It was at one in Glasgow that I first tried coding (Python through team treehouse!).
-
-I love data and I looked after our teams data reporting. I automated our monthly data report and used .csv exports from our applicant tracking system to draw insights and build predictive funnels. When I first decided to learn programming seriously, I thought it would be to do data analysis (I did an amazing Python course through Coursera with the University of Toronto). It wasn't until I got deeper into programming that I realised I found full stack engineering more interesting. 
-
-One of my proudest achievements in my career was running a multi university coding challenge across the top universities in the UK. It took 6 months and many sleepless nights but resulted in over 1,000 contestants, 27 in-person events (26 qualifiers and a global final in our offices). We hired two tier 1 candidates from Oxford as a result, including the 2nd place finals finisher. I got to present the journey to the global HR team and it was selected to represent Bloomberg as 1 of 3 HR initiatives for an HR award competition Bloomberg entered. Here’s a video we made of the finals https://goo.gl/bw2k2j.
+Before relocating to New York, I worked in our London office recruiting for our C++ software development programme, aimed mainly at CS students.<br>
+Highlights:
+* I ran our hackathon sponsorship for events across Europe and attended about 10 that year myself. It was at one in Glasgow that I first tried coding (Python through team treehouse!).
+* I love data and I looked after our teams data reporting. I automated our monthly data report and used .csv exports from our applicant tracking system to draw insights and build predictive funnels. When I first decided to learn programming seriously, I thought it would be to do data analysis (I did an amazing Python course through Coursera with the University of Toronto). It wasn't until I got deeper into programming that I realised I found full stack engineering more interesting.
+* One of my proudest achievements in my career was running a multi university coding challenge across the top universities in the UK. It took 6 months and many sleepless nights but resulted in over 1,000 contestants, 27 in-person events (26 qualifiers and a global final in our offices). We hired two tier 1 candidates from Oxford as a result, including the 2nd place finals finisher. I got to present the journey to the global HR team and it was selected to represent Bloomberg as 1 of 3 HR initiatives for an HR award competition Bloomberg entered. Here’s a video we made of the finals https://goo.gl/bw2k2j.
 
 **Oasis HR** (May '13 to Jan '15)   
 *Recruitment Consultant*\
-Agency recruiter in a specialist HR recruitment consultancy, recruiting
-mid to senior level roles in a variety of industries for SME and blue-chip organisations. I made placements at Bloomberg, AOL, CGI Group, Blinkbox, Harrods, BBC and more! 
+Agency recruiter in a specialist HR recruitment consultancy, recruiting mid to senior level roles in a variety of industries for SME and blue-chip organisations. I made placements at Bloomberg, AOL, CGI Group, Blinkbox, Harrods, BBC and more!
 
-## Interests 
+## Interests
 
-I love to be outside and enjoy everything from hiking trails, camping trips, skiing &amp; snowboarding to skydiving and hang gliding. I've been running the last couple of years and completed the 2018 Spartan Race. 
+I love to be outside and enjoy everything from hiking trails, camping trips, skiing &amp; snowboarding to skydiving and hang gliding. I've been running the last couple of years and completed the 2018 Spartan Race.
 
-I'm fascinated by psychology and the unconscious mind. Whilst in New York I decided to pursue a life-long curiousity by enrolling in an Eriksonian Hypnotherapy course. I completed the 6 day training and the following test and coursework to become certified. 
-
-After a long hiatus, I've got back into reading. I've been tackling some of the classics recently.  
-
+I'm fascinated by psychology and the unconscious mind. Whilst in New York I decided to pursue a life-long curiosity by enrolling in an Eriksonian Hypnotherapy course. I completed the 6 day training and the following test and coursework to become certified.
