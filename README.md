@@ -7,7 +7,7 @@
   <a href="https://github.com/Robfaldo">
   <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="medium" hspace="50" height="42" width="42"></a><br></p><br>
 
-I'm an ex-technology recruiter who got tired of wishing I was doing the roles that I was recruiting for. I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior full stack or backend web developer role.
+I'm an ex-technology recruiter who got tired of wishing I was doing the roles that I was recruiting for! I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior full stack or backend web developer role. I'm keen to join a team that practices TDD, and while language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra).
 
 ## Technical experience
 
@@ -17,31 +17,21 @@ I'm an ex-technology recruiter who got tired of wishing I was doing the roles th
 | [facebook](https://github.com/chrisrusselldigital/acebook-petbook). Started in the 8th week of Makers | Completed in a team of 5 | This is the info about the project | 2 weeks | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
 | [AirBnB](https://github.com/chrisrusselldigital/acebook-petbook). Started in the 6th week of Makers. My blog post on what I learnt form it [here](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) | Completed in a team of 5 | This is the info about the project | 1 week | Javascript, NodeJs/Express, MongoDB | Cypress, Jasmine |
 
-I really enjoy TDD/BDD. Here's a blog post on why. WRITE THIS BLOG
-SOLID design principles.
-DRY.
-XP values.
-Agile development (Kanban, sprint).  
+Through my team projects, I've had experience using Agile methodologies such as XP, sprints and Kanbans. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
 
 ## Education
 
 #### Makers Academy (May '18 to August '18)
 
-I studied in person at Makers Academy London office. Who are makers? They're a full time, web development bootcamp based in London. MORE INFO HERE
+I just completed Makers Academy which is a full time, immersive, web development bootcamp based in London. They focus on full stack development (using mainly Ruby & Javascript) and have taught me about TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. The coach team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and more.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Since I've been at Makers, I've seen recent graduates been hired by Hive Learning, Deloitte, Pottermore (for you Harry Potter fans!), ADD MORE HERE.
 
 #### Online courses
 
-* CS50 (partial complete)
-* University of Toronto - Introduction to computer programming (in Python)
-* Coursera - HTML, CSS and Javascript for front end development
-* Codecademy - Ruby and Python tracks
-* Udacity -
-COMPLETE THIS
+I started to learn to develop about 6 months before Makers and used a lot of the introductory online courses (CodeAcademy and the likes). Aside from those, a couple that I feel worth mentioning:
+* Codeacademy, partnering with thoughtbot - [TDD with Javascript intensive](https://www.codecademy.com/pro/intensive/test-driven-development)
+* [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x). Harvards introduction to computer science, made available for free by edX (partially complete, submitting passing work up to problem set 4, of 8). I wanted to get a grounding and familiarity with some of the fundamentals of computer science. I learnt C and explored Algorithms, Data Structures, Pointers, HTTP and more. [Syllabus](https://docs.cs50.net/2018/x/syllabus.html)
 
 #### Nottingham Trent University (2009 to 2012)
 
