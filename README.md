@@ -45,7 +45,7 @@ I started to learn to develop about 6 months before Makers and used a lot of the
 *Internal Recruiter (part-time contract)*\
 After deciding to career change and moving back to the UK, I was rehired by Oasis HR on a part-time contract. During this time I spent about 1-2 days a week learning to code.<br>
 Highlights:
-* I partnered with 4 directors on a 6 months project to hire 2 senior recruiters to join their team. We revamped their employer branding and saved over £18k in agency fees. __Teamwork, Stakeholder engagement, Project management__
+* I partnered with 4 directors on a 6 months project to hire 2 senior recruiters to join their team. We revamped their employer branding and saved over £18k in agency fees. ###__Teamwork, Stakeholder engagement, Project management__
 
 **Bloomberg LP (New York, US based)** (Aug '16 to Sept '17)   
 *Experienced Hire Technical Recruiter*\
@@ -64,7 +64,7 @@ Highlights:
 
 **Oasis HR** (May '13 to Jan '15)   
 *Recruitment Consultant*\
-Agency recruiter in a specialist HR recruitment consultancy, recruiting mid to senior level roles in a variety of industries for SME and blue-chip organisations. I made placements at Bloomberg, AOL, CGI Group, Blinkbox, Harrods, BBC and more! __Project management, Determination__ 
+Agency recruiter in a specialist HR recruitment consultancy, recruiting mid to senior level roles in a variety of industries for SME and blue-chip organisations. I made placements at Bloomberg, AOL, CGI Group, Blinkbox, Harrods, BBC and more! __Project management, Determination__
 
 ## Interests
 
