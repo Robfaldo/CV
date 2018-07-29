@@ -18,20 +18,20 @@ I'm an ex-technology recruiter who got tired of wishing I was doing the roles th
 | [Facebook](https://github.com/chrisrusselldigital/acebook-petbook)</br> Started on the 8th week of Makers</br> __Heroku__ link [here](http://petbook-acebook.herokuapp.com/users/sign_in) | Team of 5 | 2 weeks | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
 | [AirBnB](https://github.com/Robfaldo/stinkbugs-bnb)</br> Started in the 6th week of Makers. It was our first team project, here's my blog post on what I learnt form it [here](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) | Team of 5 | 1 week | Javascript, NodeJs/Express, MongoDB | Cypress, Jasmine |
 
-Through my team projects, I've had experience using Agile methodologies such as XP, sprints and Kanbans. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
+Through my team projects, I've had experience using Agile methodologies such as XP, Sprints and Kanbans. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
 
 ## Education
 
 #### Makers Academy (May '18 to August '18)
 
-I decided to invest the £8,000 tuition fee to join Makers Academy which is a full time, immersive, web development bootcamp based in London. They focus on full stack development (using mainly Ruby & Javascript) and have taught me about TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. The coach team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and more.
+After 6 months of self directed study and meeting with 2 other bootcamps I decided to invest the £8,000 tuition fee to join Makers Academy which is a full time, immersive, web development bootcamp based in London. They focus on full stack development (using mainly Ruby & Javascript) and have taught me about TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. The coach team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and more.
 
 Since I've been at Makers, I've seen recent graduates been hired by Deloitte, Pottermore (for you Harry Potter fans!), Hive Learning, Tesco, ITV, Capco, Mettrr and so many more!
 
 #### Online courses
 
 I started to learn to develop about 6 months before Makers and used a lot of the introductory online courses (CodeAcademy, Coursera, Udacity and the likes). Aside from those, a couple that I feel worth mentioning:
-* Codeacademy, partnering with thoughtbot - [TDD with Javascript intensive](https://www.codecademy.com/pro/intensive/test-driven-development)
+* Codeacademy, partnering with thoughtbot - [TDD with Javascript intensive](https://www.codecademy.com/pro/intensive/test-driven-development). I'm still making my way through this course and it's been awesome for teaching some best practice around full stack TDD.
 * [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x). Harvards introduction to computer science, made available for free by edX (partially complete, submitting passing work up to problem set 4, of 8). I wanted to get a grounding and familiarity with some of the fundamentals of computer science. I learnt C and explored Algorithms, Data Structures, Pointers, HTTP and more. [Syllabus](https://docs.cs50.net/2018/x/syllabus.html)
 
 #### Nottingham Trent University (2009 to 2012)
