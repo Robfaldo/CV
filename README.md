@@ -39,13 +39,13 @@ I started to learn to develop about 6 months before Makers and used a lot of the
 - Law (LLB)
 - 2.1
 
-## Non-technical experience (competencies demonstrated in bold)
+## Non-technical experience
 
 **Oasis HR** (Nov '17 to May '18)    
 *Internal Recruiter (part-time contract)*\
 After deciding to career change and moving back to the UK, I was rehired by Oasis HR on a part-time contract. During this time I spent about 1-2 days a week learning to code.<br>
 Highlights:
-* I partnered with 4 directors on a 6 months project to hire 2 senior recruiters to join their team. We revamped their employer branding and saved over £18k in agency fees. ###__Teamwork, Stakeholder engagement, Project management__
+* I partnered with 4 directors on a 6 months project to hire 2 senior recruiters to join their team. We revamped their employer branding and saved over £18k in agency fees.__Teamwork, Stakeholder engagement, Project management__
 
 **Bloomberg LP (New York, US based)** (Aug '16 to Sept '17)   
 *Experienced Hire Technical Recruiter*\
