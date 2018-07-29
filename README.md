@@ -12,7 +12,7 @@ I'm an ex-technology recruiter who got tired of wishing I was doing the roles th
 ## Technical experience
 
 | Title | Team info | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed|
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 | [Lendit (Final Project)](https://github.com/khiebiggs/Lendit). Completed after 10 weeks at Makers, deployed [here](https://limitless-wildwood-27577.herokuapp.com/) | Completed in a team of 4 | 10 days | NodeJS, Express, ReactJs, MongoDB (MERN) | Travis, Heroku, Mocha, Chai, Enzyme, Jest |
 | [instagram](https://github.com/Robfaldo/instagram-challenge). Started as the weekend challenge at the end of the 8th week of Makers, deployed [here](https://faldoinstagram.herokuapp.com/) | Completed solo | 2 days (have added some code since -- see commit history) | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
 | [facebook](https://github.com/chrisrusselldigital/acebook-petbook). Started on the 8th week of Makers | Completed in a team of 5 | 2 weeks | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
