@@ -13,10 +13,10 @@ I'm an ex-technology recruiter who got tired of wishing I was doing the roles th
 
 | Title | Team info | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed|
 |--|--|--|--|--|
-| [Lendit (Final Project)](https://github.com/khiebiggs/Lendit). Completed after 10 weeks at Makers, deployed [here](https://limitless-wildwood-27577.herokuapp.com/) | Completed in a team of 4 | 10 days | NodeJS, Express, ReactJs, MongoDB (MERN) | Travis, Heroku, Mocha, Chai, Enzyme, Jest |
-| [instagram](https://github.com/Robfaldo/instagram-challenge). Started as the weekend challenge at the end of the 8th week of Makers, deployed [here](https://faldoinstagram.herokuapp.com/) | Completed solo | 2 days (have added some code since -- see commit history) | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
-| [facebook](https://github.com/chrisrusselldigital/acebook-petbook). Started on the 8th week of Makers | Completed in a team of 5 | 2 weeks | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
-| [AirBnB](https://github.com/Robfaldo/stinkbugs-bnb). Started in the 6th week of Makers. It was our first team project, here's my blog post on what I learnt form it [here](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) | Completed in a team of 5 | 1 week | Javascript, NodeJs/Express, MongoDB | Cypress, Jasmine |
+| [Lendit (Final Project)](https://github.com/khiebiggs/Lendit)</br> Completed after 10 weeks at Makers</br>__Heroku__ link [here](https://limitless-wildwood-27577.herokuapp.com/) | Team of 4 | 10 days | NodeJS, Express, ReactJs, MongoDB (MERN) | Travis, Heroku, Mocha, Chai, Enzyme, Jest |
+| [Instagram](https://github.com/Robfaldo/instagram-challenge)</br> Started as the weekend challenge at the end of the 8th week of Makers</br>__Heroku__ link [here](https://faldoinstagram.herokuapp.com/) | Solo | 2 days | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
+| [Facebook](https://github.com/chrisrusselldigital/acebook-petbook)</br> Started on the 8th week of Makers</br> __Heroku__ link [here](http://petbook-acebook.herokuapp.com/users/sign_in) | Team of 5 | 2 weeks | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
+| [AirBnB](https://github.com/Robfaldo/stinkbugs-bnb)</br> Started in the 6th week of Makers. It was our first team project, here's my blog post on what I learnt form it [here](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) | Team of 5 | 1 week | Javascript, NodeJs/Express, MongoDB | Cypress, Jasmine |
 
 Through my team projects, I've had experience using Agile methodologies such as XP, sprints and Kanbans. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
 
