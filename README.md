@@ -7,7 +7,7 @@
   <a href="https://github.com/Robfaldo">
   <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="medium" hspace="50" height="42" width="42"></a><br></p><br>
 
-I'm an ex-technology recruiter who got tired of wishing I was doing the roles that I was recruiting for! I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior backend end or full stack development role. I'd love to join a team that practices TDD, and while language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra). I enjoy TDD, OO programming, refactoring, debugging and that sweet, satisfying feeling of solving a difficult technical problem.
+I'm an ex-technology recruiter moved over to the dark side! I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior backend end or full stack development role. I'd love to join a team that practices TDD, and while language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra). I enjoy TDD, OO programming, refactoring, debugging and that sweet, satisfying feeling of solving a difficult technical problem.
 
 ## Technical experience
 
