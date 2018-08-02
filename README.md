@@ -8,7 +8,7 @@
 [Technical experience](#technical) | [Education](#education) | [Non-technical experience](#non-technical) | [Interests](#interests) |
 
 
-I'm an ex-technology recruiter who moved over to the dark side! I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior backend end or full stack development role. I'd love to join a team that practices TDD, and while language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra). I enjoy TDD, OO programming, refactoring, debugging and that sweet, satisfying feeling of solving a difficult technical problem.
+I'm an ex-technology recruiter who moved over to the dark side! I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior development role. I'd love to join a team that practices TDD, and while language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra). I enjoy TDD, OO programming, refactoring, debugging and that sweet, satisfying feeling of solving a difficult technical problem.
 
 ## <a name="technical"></a>Technical experience
 
