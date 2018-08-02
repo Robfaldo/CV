@@ -4,8 +4,9 @@
   <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
   <a href="https://medium.com/@robertfaldo">
   <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
-  <a href="https://github.com/Robfaldo">
-  <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="medium" hspace="50" height="42" width="42"></a><br></p><br>
+  
+[Technical experience](#technical experience) | [Education](#education) | [Non-technical experience](#non-technical experience) | [Interests](#interests) |
+
 
 I'm an ex-technology recruiter moved over to the dark side! I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior backend end or full stack development role. I'd love to join a team that practices TDD, and while language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra). I enjoy TDD, OO programming, refactoring, debugging and that sweet, satisfying feeling of solving a difficult technical problem.
 
