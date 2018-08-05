@@ -5,7 +5,7 @@
   <a href="https://medium.com/@robertfaldo">
   <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
   
-[Technical experience](#technical) | [Education](#education) | [Skills](#skills) | [Non-technical experience](#non-technical) | [Interests](#interests) |
+[Technical experience](#technical) | [Education](#education) | [Skills](#skills) | [Career before Makers](#career) | [Interests](#interests) |
 
 I'm an ex-technology recruiter who moved over to the dark side! I've been based in London and New York and have worked on projects and teams globally. I've just completed Makers Academy, an immersive web development bootcamp, and I'm looking for a role as a junior developer. I'd love to join a team that practices TDD, and whilst language/framework isn't the most important thing to me I've got experience with JavaScript (Node.js & Express) and Ruby (Rails, Sinatra). 
 
@@ -42,7 +42,7 @@ In the almost 3 years of working at Bloomberg, I had the experience of working o
 #### Methodical approach to solving problems 
 I believe that one of my biggest strengths in coding has been the systematic approach I've adopted to solving problems. I've also had some fellow Makers compliment me on not being intimidated or overwhelmed by code. I really enjoy debugging and using the scientific method to understand code bases and learn new technologies or concepts.  
 
-## Non-technical experience<a name="non-technical">
+## Career before Makers<a name="career">
 
 **Oasis HR** (Nov '17 to May '18)    
 *Internal Recruiter (part-time contract)*\
