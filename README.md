@@ -45,27 +45,19 @@ I started to learn to develop about 6 months before Makers and used a lot of the
 
 **Oasis HR** (Nov '17 to May '18)    
 *Internal Recruiter (part-time contract)*\
-After deciding to career change and moving back to the UK, I was rehired by Oasis HR on a part-time contract. During this time I spent about 1-2 days a week learning to code.<br>
-Highlights:
-* I partnered with 4 directors on a 6 months project to hire 2 senior recruiters to join their team. We revamped their employer branding and saved over £18k in agency fees.__Teamwork, Stakeholder engagement, Project management__
+Rehired by Oasis, working part time and spending 1-2 days a week learning to code.
 
 **Bloomberg LP (New York, US based)** (Aug '16 to Sept '17)   
 *Experienced Hire Technical Recruiter*\
 After relocating to our New York HQ, I was the first recruiter dedicated to hiring Site Reliability Engineers for Bloombergs' 5,000 strong developer team.<br>
-Highlights:
-* Worked with heads of groups (application and infrastructure teams) on identifying a matrix of core technical and non-technical requirements for SRE's across different teams (different teams had very different opinions!). __Project management, Stakeholder engagement, Teamwork__
-* I got the chance to work with some great leaders across multiple engineering groups and delved a lot deeper into DevOps, Production, Systems, Reliability and Development in order to understand the relationship between each and the very ambiguous world of site reliability engineering. __Research, Teamwork, Stakeholder engagement__
 
 **Bloomberg LP (London, UK based)** (Jan '15 Aug '16)   
 *EMEA Campus Technical Recruiter*\
-Before relocating to New York, I worked in our London office recruiting for our C++ software development programme, aimed mainly at CS students.<br>
-Highlights:
-* I ran our hackathon sponsorship for events across Europe and attended about 10 that year myself. It was at one in Glasgow that I first tried coding (Python through team treehouse!). __Project management, Teamwork__
-* One of my proudest achievements in my career was running a multi university coding challenge across the top universities in the UK. It took 6 months and many sleepless nights but resulted in over 1,000 contestants, 27 in-person events (26 qualifiers and a global final in our offices). We hired two tier 1 candidates from Oxford as a result, including the 2nd place finals finisher. I got to present the journey to the global HR team and it was selected to represent Bloomberg as 1 of 3 HR initiatives for an HR award competition Bloomberg entered. Here’s a video we made of the finals https://goo.gl/bw2k2j. __Project management, Teamwork, Stakeholder engagement, Programme design__
+Before relocating to New York, I worked in our London office recruiting for our C++ software development programme, aimed 
 
 **Oasis HR** (May '13 to Jan '15)   
 *Recruitment Consultant*\
-Agency recruiter in a specialist HR recruitment consultancy, recruiting mid to senior level roles in a variety of industries for SME and blue-chip organisations. I made placements at Bloomberg, AOL, CGI Group, Blinkbox, Harrods, BBC and more! __Project management, Determination__
+Agency recruiter in a specialist HR recruitment consultancy, recruiting mid to senior level roles in a variety of industries for SME and blue-chip organisations. I made placements at Bloomberg, AOL, CGI Group, Blinkbox, Harrods, BBC and more! 
 
 ## Interests
 
