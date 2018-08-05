@@ -18,7 +18,7 @@ I'm an ex-technology recruiter who moved over to the dark side! I've been based 
 | [Instagram](https://github.com/Robfaldo/instagram-challenge)(2 days)</br> Started as the weekend challenge at the end of the 8th week of Makers</br>__Heroku__ link [here](https://faldoinstagram.herokuapp.com/) | Solo | TDD, Kanban (trello) | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
 | [Facebook](https://github.com/chrisrusselldigital/acebook-petbook)(2 weeks)</br> Started on the 8th week of Makers</br> __Heroku__ link [here](http://petbook-acebook.herokuapp.com/users/sign_in) | Team of 5 | 2 day sprint, morning/afternoon standups, retrospectives, TDD | Ruby | Heroku, Ruby, Rails, a tiny bit of JavaScript |
 
-Through my team projects, I've had experience using Agile methodologies such as XP, Sprints and Kanbans. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
+Through my team projects, I've had experience using Agile methodologies such as XP, Sprints and Kanban. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
 
 ## Education
 
