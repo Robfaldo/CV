@@ -24,7 +24,7 @@ Through my team projects, I've had experience using Agile methodologies such as 
 
 #### Makers Academy (May '18 to August '18)
 
-After 6 months of self directed study I decided to invest the £8,000 tuition fee to join Makers Academy which is a full time web development bootcamp based in London. They focus on full stack development (using mainly Ruby & JavaScript) and have taught me about TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. The coach team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and more. Since I've been at Makers, I've seen recent graduates hired by Deloitte, Thoughtbot, The Guardian, Pottermore (for you Harry Potter fans!), Hive Learning, Tesco, ITV, Capco, Mettrr and so many more!
+After 6 months of self directed study I decided to invest the £8,000 tuition fee to join Makers Academy which is a full time web development bootcamp based in London. The coach team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and they focus on full stack development (Ruby & JavaScript), TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. 
 
 #### Nottingham Trent University (2009 to 2012)
 
