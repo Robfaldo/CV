@@ -34,16 +34,18 @@ Since I've been at Makers, I've seen recent graduates been hired by Deloitte, Po
 - Law (LLB)
 - 2.1
 
-#### Skills 
+## Skills 
 
 #### Hard working
+Writing here
+#### Self-starter
+Writing here
+#### Working in teams and developing relationships  
+Writing here
+#### Methodical approach to solving problems 
+Writing here
 
-#### Self-starter 
-#### Working in teams 
-Methodical approach to solving problems 
-Developing relationships 
-
-#### Non-technical experience<a name="non-technical">
+## Non-technical experience<a name="non-technical">
 
 **Oasis HR** (Nov '17 to May '18)    
 *Internal Recruiter (part-time contract)*\
