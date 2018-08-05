@@ -7,7 +7,7 @@
   
 [Technical experience](#technical) | [Education](#education) | [Skills](#skills) | [Non-technical experience](#non-technical) | [Interests](#interests) |
 
-I'm an ex-technology recruiter who moved over to the dark side! I've been based in London and New York and have worked on projects and teams globally. I've just completed Makers Academy immersive web development bootcamp and I'm looking for a role as a junior developer. I'd love to join a team that practices TDD, and whilst language/framework isn't the most important thing to me I've got experience with JavaScript (Node.js & Express) and Ruby (Rails, Sinatra). 
+I'm an ex-technology recruiter who moved over to the dark side! I've been based in London and New York and have worked on projects and teams globally. I've just completed Makers Academy, an immersive web development bootcamp, and I'm looking for a role as a junior developer. I'd love to join a team that practices TDD, and whilst language/framework isn't the most important thing to me I've got experience with JavaScript (Node.js & Express) and Ruby (Rails, Sinatra). 
 
 ## <a name="technical"></a>Technical experience
 
