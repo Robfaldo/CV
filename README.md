@@ -17,7 +17,6 @@ I'm an ex-technology recruiter who moved over to the dark side! I've been based 
 | [Gilded Rose Tech Test](https://github.com/Robfaldo/GildedRose-Refactoring-Kata/tree/master/js)</br> Completed on 10th week of Makers</br> Using factory design pattern | Solo | 2.5 days | Javascript | Jasmine |
 | [Instagram](https://github.com/Robfaldo/instagram-challenge)</br> Started as the weekend challenge at the end of the 8th week of Makers</br>__Heroku__ link [here](https://faldoinstagram.herokuapp.com/) | Solo | 2 days | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
 | [Facebook](https://github.com/chrisrusselldigital/acebook-petbook)</br> Started on the 8th week of Makers</br> __Heroku__ link [here](http://petbook-acebook.herokuapp.com/users/sign_in) | Team of 5 | 2 weeks | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
-| [AirBnB](https://github.com/Robfaldo/stinkbugs-bnb)</br> Started in the 6th week of Makers. It was our first team project, here's my blog post on what I learnt form it [here](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) | Team of 5 | 1 week | Javascript, NodeJs/Express, MongoDB | Cypress, Jasmine |
 
 Through my team projects, I've had experience using Agile methodologies such as XP, Sprints and Kanbans. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
 
