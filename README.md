@@ -5,10 +5,9 @@
   <a href="https://medium.com/@robertfaldo">
   <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
   
-[Technical experience](#technical) | [Education](#education) | [Non-technical experience](#non-technical) | [Interests](#interests) |
+[Technical experience](#technical) | [Education](#education) | [Skills](#skills) | [Non-technical experience](#non-technical) | [Interests](#interests) |
 
-
-I'm an ex-technology recruiter who moved over to the dark side! I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior development role. I'd love to join a team that practices TDD, and while language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra). I enjoy TDD, OO programming, refactoring, debugging and that sweet, satisfying feeling of solving a difficult technical problem.
+I'm an ex-technology recruiter who moved over to the dark side! I've just completed Makers Academy immersive web development bootcamp and I'm looking for a junior development role. I'd love to join a team that practices TDD, and whilst language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra). I enjoy TDD, OO programming, refactoring, debugging and that sweet, satisfying feeling of solving a difficult technical problem.
 
 ## <a name="technical"></a>Technical experience
 
@@ -30,18 +29,21 @@ After 6 months of self directed study and meeting with 2 other bootcamps I decid
 
 Since I've been at Makers, I've seen recent graduates been hired by Deloitte, Pottermore (for you Harry Potter fans!), Hive Learning, Tesco, ITV, Capco, Mettrr and so many more!
 
-#### Online courses
-
-I started to learn to develop about 6 months before Makers and used a lot of the introductory online courses (CodeAcademy, Coursera, Udacity and the likes). Aside from those, a couple that I feel worth mentioning:
-* Codeacademy, partnering with thoughtbot - [TDD with Javascript intensive](https://www.codecademy.com/pro/intensive/test-driven-development). I'm still making my way through this course and it's been awesome for teaching some best practice around full stack TDD.
-* [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x). Harvards introduction to computer science, made available for free by edX (partially complete, submitting passing work up to problem set 4, of 8). I wanted to get a grounding and familiarity with some of the fundamentals of computer science. I learnt C and explored Algorithms, Data Structures, Pointers, HTTP and more. [Syllabus](https://docs.cs50.net/2018/x/syllabus.html)
-
 #### Nottingham Trent University (2009 to 2012)
 
 - Law (LLB)
 - 2.1
 
-## Non-technical experience<a name="non-technical">
+#### Skills 
+
+#### Hard working
+
+#### Self-starter 
+#### Working in teams 
+Methodical approach to solving problems 
+Developing relationships 
+
+#### Non-technical experience<a name="non-technical">
 
 **Oasis HR** (Nov '17 to May '18)    
 *Internal Recruiter (part-time contract)*\
