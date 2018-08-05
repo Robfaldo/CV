@@ -37,13 +37,13 @@ Since I've been at Makers, I've seen recent graduates been hired by Deloitte, Po
 ## Skills 
 
 #### Hard working
-Writing here
+One of the things that give me satisfaction in life is feeling like I've produced something I can be proud of. I've had opportunities to work for market leading companies and have had a paid relocation package (including visa and cash bonus) to New York and I believe that working hard in the roles and projects I was involved in was a driving factor behind this.   
 #### Self-starter
-Writing here
+One of the reasons I did well at Bloomberg is that if you have good ideas and are willing to take on the extra work in your own time, they gave you a lot of freedom and financial support to deliver them. One of my proudest achievements in my career was coming up with the idea and then running a multi university coding challenge across the top universities in the UK and the US. It took 6 months and many sleepless nights but resulted in over 1,000 contestants and 27 in-person events. We hired two tier 1 candidates from Oxford as a result, including the 2nd place finals finisher. I got to present the journey to the global HR team and it was selected to represent Bloomberg as 1 of 3 initiatives for an innovation award the company entered. Here’s a video we made of the finals https://goo.gl/bw2k2j.
 #### Working in teams and developing relationships  
-Writing here
+In the almost 3 years of working at Bloomberg, I had the experience of working on UK and global teams with local and remote stakeholders. I wasn't sure how valuable this experience would be until I started working on team projects at Makers and realised how essential the ability to communicate, split work and collaborate was in making quality software.  
 #### Methodical approach to solving problems 
-Writing here
+I believe that one of my biggest strengths in coding has been the systematic approach I've adopted to solving problems. I've also had some fellow Makers compliment me on not being intimidated or overwhelmed by code. I really enjoy debugging and using the scientific method to understand my program and to learn new technologies or concepts.  
 
 ## Non-technical experience<a name="non-technical">
 
