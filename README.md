@@ -7,16 +7,16 @@
   
 [Technical experience](#technical) | [Education](#education) | [Skills](#skills) | [Non-technical experience](#non-technical) | [Interests](#interests) |
 
-I'm an ex-technology recruiter who moved over to the dark side! I've been based in London and New York and have worked on projects and teams globally. I've just completed Makers Academy immersive web development bootcamp and I'm looking for a role as a junior developer. I'd love to join a team that practices TDD, and whilst language/framework isn't the most important thing to me I've got experience with Javascript (NodeJS & Express) and Ruby (Rails, Sinatra). 
+I'm an ex-technology recruiter who moved over to the dark side! I've been based in London and New York and have worked on projects and teams globally. I've just completed Makers Academy immersive web development bootcamp and I'm looking for a role as a junior developer. I'd love to join a team that practices TDD, and whilst language/framework isn't the most important thing to me I've got experience with JavaScript (NodeJS & Express) and Ruby (Rails, Sinatra). 
 
 ## <a name="technical"></a>Technical experience
 
 | Title | Team info | Methodologies & processes | Technologies Used | Test Suites/CIs/CDs Employed|
 |--|--|--|--|--|
 | [Lendit (Final Project)](https://github.com/khiebiggs/Lendit)(10 days) </br> Completed after 10 weeks at Makers</br>__Heroku__ link [here](https://limitless-wildwood-27577.herokuapp.com/) | Team of 4 | 2 day sprint, Kanban (trello), daily standups, TDD | NodeJS, Express, ReactJs, MongoDB (MERN) | Travis, Heroku, Mocha, Chai, Enzyme, Jest |
-| [Gilded Rose Tech Test](https://github.com/Robfaldo/GildedRose-Refactoring-Kata/tree/master/js)(2.5 days)</br> Completed on 10th week of Makers</br> Using factory design pattern | Solo | TDD, Kanban (trello) | Javascript | Jasmine |
+| [Gilded Rose Tech Test](https://github.com/Robfaldo/GildedRose-Refactoring-Kata/tree/master/js)(2.5 days)</br> Completed on 10th week of Makers</br> Using factory design pattern | Solo | TDD, Kanban (trello) | JavaScript | Jasmine |
 | [Instagram](https://github.com/Robfaldo/instagram-challenge)(2 days)</br> Started as the weekend challenge at the end of the 8th week of Makers</br>__Heroku__ link [here](https://faldoinstagram.herokuapp.com/) | Solo | TDD, Kanban (trello) | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
-| [Facebook](https://github.com/chrisrusselldigital/acebook-petbook)(2 weeks)</br> Started on the 8th week of Makers</br> __Heroku__ link [here](http://petbook-acebook.herokuapp.com/users/sign_in) | Team of 5 | 2 day sprint, morning/afternoon standups, retrospectives, TDD | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
+| [Facebook](https://github.com/chrisrusselldigital/acebook-petbook)(2 weeks)</br> Started on the 8th week of Makers</br> __Heroku__ link [here](http://petbook-acebook.herokuapp.com/users/sign_in) | Team of 5 | 2 day sprint, morning/afternoon standups, retrospectives, TDD | Ruby | Heroku, Ruby, Rails, a tiny bit of JavaScript |
 
 Through my team projects, I've had experience using Agile methodologies such as XP, Sprints and Kanbans. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
 
@@ -24,7 +24,7 @@ Through my team projects, I've had experience using Agile methodologies such as 
 
 #### Makers Academy (May '18 to August '18)
 
-After 6 months of self directed study and meeting with 2 other bootcamps I decided to invest the £8,000 tuition fee to join Makers Academy which is a full time, immersive, web development bootcamp based in London. They focus on full stack development (using mainly Ruby & Javascript) and have taught me about TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. The coach team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and more.
+After 6 months of self directed study and meeting with 2 other bootcamps I decided to invest the £8,000 tuition fee to join Makers Academy which is a full time, immersive, web development bootcamp based in London. They focus on full stack development (using mainly Ruby & JavaScript) and have taught me about TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. The coach team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and more.
 
 Since I've been at Makers, I've seen recent graduates been hired by Deloitte, Pottermore (for you Harry Potter fans!), Hive Learning, Tesco, ITV, Capco, Mettrr and so many more!
 
