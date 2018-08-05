@@ -50,7 +50,7 @@ Rehired by Oasis, working part time and spending 1-2 days a week learning to cod
 
 **Bloomberg LP (New York, US based)** (Aug '16 to Sept '17)   
 *Experienced Hire Technical Recruiter*\
-After relocating to our New York HQ, I was the first recruiter dedicated to hiring Site Reliability Engineers for Bloombergs' 5,000 strong developer team.<br>
+After relocating to our New York HQ, I was the first recruiter dedicated to hiring Site Reliability Engineers for Bloomberg's 5,000 strong developer team.<br>
 
 **Bloomberg LP (London, UK based)** (Jan '15 Aug '16)   
 *EMEA Campus Technical Recruiter*\
