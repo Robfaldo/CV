@@ -11,12 +11,12 @@ I'm an ex-technology recruiter who moved over to the dark side! I've been based 
 
 ## <a name="technical"></a>Technical experience
 
-| Title | Team info | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed|
+| Title | Team info | Methodologies & processes | Technologies Used | Test Suites/CIs/CDs Employed|
 |--|--|--|--|--|
-| [Lendit (Final Project)](https://github.com/khiebiggs/Lendit)</br> Completed after 10 weeks at Makers</br>__Heroku__ link [here](https://limitless-wildwood-27577.herokuapp.com/) | Team of 4 | 10 days | NodeJS, Express, ReactJs, MongoDB (MERN) | Travis, Heroku, Mocha, Chai, Enzyme, Jest |
-| [Gilded Rose Tech Test](https://github.com/Robfaldo/GildedRose-Refactoring-Kata/tree/master/js)</br> Completed on 10th week of Makers</br> Using factory design pattern | Solo | 2.5 days | Javascript | Jasmine |
-| [Instagram](https://github.com/Robfaldo/instagram-challenge)</br> Started as the weekend challenge at the end of the 8th week of Makers</br>__Heroku__ link [here](https://faldoinstagram.herokuapp.com/) | Solo | 2 days | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
-| [Facebook](https://github.com/chrisrusselldigital/acebook-petbook)</br> Started on the 8th week of Makers</br> __Heroku__ link [here](http://petbook-acebook.herokuapp.com/users/sign_in) | Team of 5 | 2 weeks | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
+| [Lendit (Final Project)](https://github.com/khiebiggs/Lendit)(10 days) </br> Completed after 10 weeks at Makers</br>__Heroku__ link [here](https://limitless-wildwood-27577.herokuapp.com/) | Team of 4 | 2 day sprint, Kanban (trello), daily standups, TDD | NodeJS, Express, ReactJs, MongoDB (MERN) | Travis, Heroku, Mocha, Chai, Enzyme, Jest |
+| [Gilded Rose Tech Test](https://github.com/Robfaldo/GildedRose-Refactoring-Kata/tree/master/js)(2.5 days)</br> Completed on 10th week of Makers</br> Using factory design pattern | Solo | TDD, Kanban (trello) | Javascript | Jasmine |
+| [Instagram](https://github.com/Robfaldo/instagram-challenge)</br> Started as the weekend challenge at the end of the 8th week of Makers</br>__Heroku__ link [here](https://faldoinstagram.herokuapp.com/) | Solo | TDD, Kanban (trello) | Ruby on Rails, PostgreSQL | Travis, Heroku, Rspec, Capybara |
+| [Facebook](https://github.com/chrisrusselldigital/acebook-petbook)</br> Started on the 8th week of Makers</br> __Heroku__ link [here](http://petbook-acebook.herokuapp.com/users/sign_in) | Team of 5 | 2 day sprint, morning/afternoon standups, retrospectives, TDD | Ruby | Heroku, Ruby, Rails, a tiny bit of Javascript |
 
 Through my team projects, I've had experience using Agile methodologies such as XP, Sprints and Kanbans. I wrote a[ blog](https://blog.makersacademy.com/what-i-learnt-from-my-first-group-coding-project-at-makers-academy-2cebad45b210) on my experience following my first project!
 
