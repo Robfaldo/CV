@@ -63,5 +63,7 @@ Agency recruiter in a specialist HR recruitment consultancy, recruiting mid to s
 ## Interests
 
 * I love to be outside and enjoy everything from hiking trails, camping trips, skiing &amp; snowboarding to skydiving and hang gliding. I've been running the last couple of years and completed the 2018 Spartan Race.
-* I love psychology and philosophy and can often be found reading something about how our minds work!
-* I've got into VR (PSVR), I think it's the future.
+* I’m into gaming and VR (PSVR), I think VR is the future! 
+*	Can often be found skulking /r/programming, /r/learnprogramming, /r/programmerhumor.
+*	I enjoy listening to the JavaScript jabber podcast! 
+
