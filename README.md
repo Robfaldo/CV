@@ -24,7 +24,7 @@ Through my team projects, I've had experience using Agile methodologies such as 
 
 #### Makers Academy (May '18 to August '18)
 
-After 6 months of self-directed study I decided to invest the £8,000 tuition fee to join Makers Academy which is a full-time web development bootcamp based in London. The coach team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and they focus on full stack development (Ruby & JavaScript), TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. 
+After 6 months of self-directed study I decided to invest the £8,000 tuition fee to join Makers Academy which is a full-time web development bootcamp based in London. The coaching team is currently made up of developers who've had careers at Facebook, Softwire, HSBC, Ministry of Justice and they focus on full stack development (Ruby & JavaScript), TDD, SOLID principles, DRY, Agile development, pair programming and XP Values. 
 
 #### Nottingham Trent University (2009 to 2012)
 
@@ -54,7 +54,7 @@ After relocating to our New York HQ, I was the first recruiter dedicated to hiri
 
 **Bloomberg LP (London, UK based)** (Jan '15 Aug '16)   
 *EMEA Campus Technical Recruiter*\
-Before relocating to New York, I worked in our London office recruiting for our C++ software development programme, aimed 
+Before relocating to New York, I worked in our London office recruiting for our C++ software development programme, aimed at graduates.  
 
 **Oasis HR** (May '13 to Jan '15)   
 *Recruitment Consultant*\
@@ -62,6 +62,6 @@ Agency recruiter in a specialist HR recruitment consultancy, recruiting mid to s
 
 ## Interests
 
-I love to be outside and enjoy everything from hiking trails, camping trips, skiing &amp; snowboarding to skydiving and hang gliding. I've been running the last couple of years and completed the 2018 Spartan Race.
-
-I love psychology and philosophy and can often be found reading something about how our minds work!
+* I love to be outside and enjoy everything from hiking trails, camping trips, skiing &amp; snowboarding to skydiving and hang gliding. I've been running the last couple of years and completed the 2018 Spartan Race.
+* I love psychology and philosophy and can often be found reading something about how our minds work!
+* I've got into VR (PSVR), I think it's the future.
